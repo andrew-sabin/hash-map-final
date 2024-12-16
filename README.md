@@ -1,5 +1,5 @@
 # hash-map-final
-Created Two Hashmaps, where one utilizes Open Addressing while the other utilizes Chaining. Assisted with professor Randy Scovil's help.
+Created Two Hashmaps, where one utilizes Open Addressing while the other utilizes Chaining. Assisted with Oregon State University Professor Randy Scovil's help.
 
 ## a6_include
 Provides the necessary DynamicArray, SLNode, Linked List, Linked List Iterator, and Hash Entry classes required for both the Open Addressing and Chaining hashmaps.
